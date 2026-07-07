@@ -6,21 +6,21 @@ int* productExceptSelf(int* nums, int numsSize, int* returnSize)
 
     *returnSize = numsSize;
 
+    // Store left products
     answer[0] = 1;
 
-    // Left products
     for(int i = 1; i < numsSize; i++)
     {
-        answer[i] = answer[i-1] * nums[i-1];
+        answer[i] = answer[i - 1] * nums[i - 1];
     }
 
-    // Right products
-    int right = 1;
+    // Multiply by right products
+    int rightProduct = 1;
 
-    for(int i = numsSize-1; i >= 0; i--)
+    for(int i = numsSize - 1; i >= 0; i--)
     {
-        answer[i] = answer[i] * right;
-        right = right * nums[i];
+        answer[i] = answer[i] * rightProduct;
+        rightProduct = rightProduct * nums[i];
     }
 
     return answer;
