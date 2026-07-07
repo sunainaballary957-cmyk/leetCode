@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
