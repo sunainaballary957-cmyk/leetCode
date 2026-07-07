@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0238-product-of-array-except-self) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0013-roman-to-integer) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0238-product-of-array-except-self) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
