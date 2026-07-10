@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0392-is-subsequence) |
 ## String Matching
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0383-ransom-note) |
 ## Math
