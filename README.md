@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0088-merge-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0392-is-subsequence) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0289-game-of-life) |
 ## Simulation
