@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
