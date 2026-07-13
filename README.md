@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0135-candy) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
+| [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0392-is-subsequence) |
 ## Greedy
