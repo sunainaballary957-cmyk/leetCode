@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0072-edit-distance) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0148-sort-list) |
 ## Binary Search Tree
