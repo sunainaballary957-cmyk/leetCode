@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0289-game-of-life) |
 ## Simulation
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
@@ -201,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
