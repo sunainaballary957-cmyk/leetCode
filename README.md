@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
@@ -252,4 +253,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
