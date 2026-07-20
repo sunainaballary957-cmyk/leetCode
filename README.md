@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
