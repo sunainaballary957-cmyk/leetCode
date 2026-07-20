@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0202-happy-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0209-minimum-size-subarray-sum) |
