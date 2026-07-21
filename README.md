@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0242-valid-anagram) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0148-sort-list) |
 ## Tree
 |  |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0201-bitwise-and-of-numbers-range) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
