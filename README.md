@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0228-summary-ranges) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0289-game-of-life) |
 ## Simulation
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -353,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
