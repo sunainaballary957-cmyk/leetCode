@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 ## String Matching
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -369,8 +373,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
