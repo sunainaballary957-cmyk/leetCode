@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0289-game-of-life) |
+| [0322-coin-change](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
