@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0399-evaluate-division) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Trie
 |  |
 | ------- |
