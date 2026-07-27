@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0202-happy-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0120-triangle) |
@@ -402,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0050-powx-n) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
