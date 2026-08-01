@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/0274-h-index) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sunainaballary957-cmyk/leetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
